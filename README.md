@@ -36,11 +36,11 @@
 
 ## 📺 Suis le projet / Follow along
 
-- ▶️ YouTube : *lien à ajouter / link to add*
-- 🎵 TikTok : *lien à ajouter / link to add*
-- 📸 Instagram : *lien à ajouter / link to add*
-- 🐦 X : *lien à ajouter / link to add*
-- ☕ Soutenir / Support : [ko-fi.com/dailybuilds_dev](https://ko-fi.com/dailybuilds_dev)
+- ▶️ YouTube : https://youtube.com/@dailybuilds-dev?si=C8d7gfu0LuHIqdRv
+- 🎵 TikTok : https://www.instagram.com/dailybuilds_dev
+- 📸 Instagram : https://www.instagram.com/dailybuilds_dev
+- 🐦 X : https://x.com/dailybuilds_dev
+- ☕ Soutenir / Support : https://ko-fi.com/dailybuilds_dev
 - ✉️ Contact : dailybuilds7@gmail.com
 
 ---
