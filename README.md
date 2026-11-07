@@ -19,7 +19,7 @@
 
 | # | App | Problème résolu / Problem solved | Code | Démo | Tutoriel |
 |---|-----|----------------------------------|------|------|----------|
-| 1 | *Bientôt / Coming soon* | | | | |
+| 1 | 🧺 **Pressing – Gestion des commandes** | Suivre les commandes, paiements et tickets d'un pressing, et prévenir les clients par WhatsApp / Manage a dry-cleaner's orders, payments and tickets, and notify customers via WhatsApp | [GitHub](https://github.com/dailybuilds-dev/pressing-gestion) | *Bientôt / Soon* | *Bientôt / Soon* |
 
 *(Cette liste est mise à jour après chaque publication. / This list is updated after each release.)*
 
